@@ -1,2 +1,1 @@
-RFM SaaS V5 - Dashboard + Kanban + Light/Dark
-Suba rfm_app.py no Streamlit Cloud.
+RFM SaaS V6 - Upload salva vendas e popula Kanban automaticamente.
